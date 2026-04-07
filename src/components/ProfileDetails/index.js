@@ -91,4 +91,5 @@ class ProfileCard extends Component {
   }
 }
 
-export default ProfileCard
+export default ProfileDetails
+
